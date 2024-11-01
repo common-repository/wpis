@@ -1,0 +1,21 @@
+<div class="wpish3">WPis útgáfa 1.0.5</div>
+<div class="wpish4">13. Ágúst 2011</div>
+<p>Lítil uppfærsla einungis til að undirbúa komandi uppfærslur og nýjungar.</p>
+<p>Fljótlega í haust / vetur verður komin ný útgáfa (2.0) af WPis sem gerir þýðinguna gagnvirka, ef fólk vill koma einhverju áleiðis varðandi óþýdda strengi, vandamál með þýðinguna eða bara almennt spurningar um verkefnið, þá verður hægt að gera það allt í gegnum viðbótina. Stay tuned ;D
+<hr class="wpishr"></p>
+
+<div class="wpish3">WPis útgáfa 1.0.1</div>
+<div class="wpish4">27. Mars 2011</div>
+<p>Nú er WPis komin í gagnagrunn WordPress á heimasíðu þeirra og því hægt að setja viðbótina upp með því að leita að henni undir "Viðbætur" í hvaða WordPress uppsetningu sem er.</p>
+<p>Í útgáfu 1.0.1 var litlu breytt, rétt aðeins lýsingar og útgáfunúmer. Hef lítið notað SVN í gegnum tíðina og er því skiljanlega svo lítið ryðgaður þegar kemur að því að vinna með það á ný og því fór smá í steik fyrr í dag þegar ég setti WPis fyrst inn í SVN þjóna WordPress. Vonum bara að það sé að baki ;D
+<hr class="wpishr"></p>
+
+<div class="wpish3">WPis útgáfa 1.0</div>
+<div class="wpish4">25. Mars 2011</div>
+<p>Velkomin(n) í hóp notenda WPis<br />
+Ef þú finnur einhverja galla/atriði sem þú vilt benda á, þá er hægt að hafa samband við mig á eftirfarandi máta:</p>
+<p>&raquo; <a href="mailto:axelrafn@axelrafn.org">Email</a><br />
+&raquo; <a href="http://www.twitter.com/axelrafn">Twitter</a></p>
+<p>Einnig er ég á GTalk undir axelrafn@gmail.com</p>
+<p>Sem stendur þá sér viðbótin um að birta rautt útgáfunúmer á þýðingu ef viðkomandi er ekki með nýjustu útgáfuna inni auk þess sem lítil skilaboð birtast neðan við "Upplýsingar".</p>
+<p>Ef þú hefur einhverja ábendingar um villu eða galla, eða vilt stinga upp á einhverju, ekki hika við að hafa samband við mig með ofangreindum leiðum (sjá hlekkina)<hr class="wpishr"></p>
